@@ -10,6 +10,11 @@
       "StackName": "amplify-xdnconnect-dev-220538",
       "StackId": "arn:aws:cloudformation:us-east-2:443433924981:stack/amplify-xdnconnect-dev-220538/5149e3e0-89f2-11eb-b33c-020cb476934c",
       "AmplifyAppId": "d3lx3r1r5mf4el"
+    },
+    "categories": {
+      "auth": {
+        "xdnconnect60678569": {}
+      }
     }
   }
 }
